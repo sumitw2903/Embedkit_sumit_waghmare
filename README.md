@@ -1,4 +1,4 @@
-# EmbedKit_SumitWaghmare
+# Embedkit_sumit_waghmare
 
 Name: Sumit Tanaji Waghmare
 
